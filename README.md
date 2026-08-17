@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230305
+# Name: Vinodhini M K
+# Date:27/07/2026
 
 
 # AIM:
@@ -39,7 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
+![alt text](<Screenshot 2026-08-17 205644.png>)
 
 
 
@@ -59,6 +59,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+![alt text](<Screenshot 2026-08-17 211034.png>)
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -67,7 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
-
+![alt text](<Screenshot 2026-08-17 212148.png>)
 
 # PACKAGE DIAGRAM:
 
@@ -80,7 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
+![alt text](<Screenshot 2026-08-17 215532.png>)
 
 
 
@@ -97,7 +99,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+![alt text](<Screenshot 2026-08-17 222316.png>)
 
 
 # SEQUENCE DIAGRAM
@@ -106,6 +108,8 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+
+![alt text](<Screenshot 2026-08-17 224142.png>)
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
@@ -116,10 +120,6 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
-
-
-
-
 
 
 # RESULT
